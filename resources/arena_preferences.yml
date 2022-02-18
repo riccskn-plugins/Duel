@@ -1,0 +1,9 @@
+mensagens:
+  form-title: "Duelos:"
+  form-content: "§eSelecione um jogador no qual você deseja duelar"
+  desafio-enviado: "§e*Desafio enviado"
+  desafio-recebido: "§aVocê recebeu um duelo do jogador %player% ultilize o comando §f/desafiar aceitar §apara aceitar o desafio"
+  adicionado-na-fila: "§a*Voce foi adicionado na fila, apenas aguarde agora!"
+arena:
+  max-time: 300
+  countdown: 10
